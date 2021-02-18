@@ -26,7 +26,7 @@ end
 
 function visual(rolls)
 % draws dice images based on rolls of DICE
-    s = size(rolls)
+    s = size(rolls);
     i=1;
     hold on
     for j = 1:s(1)
