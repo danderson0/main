@@ -9,7 +9,7 @@ ME2 = MException('Wrg:Order','Error: the arguments may be in the wrong order');
 
 if nargin==2
     try
-        temp = T.*T;
+        temp = T.*T;% errors is T is not number/array
     catch MEC
         if strcmp('MATLAB:UndefinedFunction',MEC.identifier)
             temp=T;
@@ -22,7 +22,9 @@ if nargin==2
 elseif nargin==1 % nargin stores the number of arguments put in with the function
     unit= "hr";
 elseif nargin ==0 
-    error("Invalid input: Must include input arguments")    
+    T=6;
+    unit = "hr"
+    %error("Invalid input: Must include input arguments")    
 end
 % Defining constants
 mts = 60;
