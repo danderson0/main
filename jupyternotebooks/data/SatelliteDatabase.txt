@@ -1,0 +1,1100 @@
+Name Country Purpose Altitude Period Mass Year Lifetime
+"Aalto-1" "Finland" "Technology Development" 517 94.7 5 2017 2
+"ABS-2" "NR" "Communications" 35793 1436.03 6330 2014 15
+"ABS-2A" "NR (12/16)" "Communications" 35700 1436.1 1800 2016 15
+"ABS-3A" "NR" "Communications" 35803 1436 2000 2015 15
+"ABS-4" "NR" "Communications" 35793 1436.1 4143 2004 12
+"ABS-6" "NR" "Communications" 35794 1436.08 2894 1999 15
+"ABS-7" "South Korea" "Communications" 35791 1436.06 3500 1999 15
+"USA 235" "USA" "Communications" 35801 1436.1 6169 2012 14
+"USA 246" "NR" "Communications" 35803 1436.1 6169 2013 14
+"Aeolus" "NR (11/18)" "Earth Observation" 317 92.4 1367 2018 3
+"Aerocube 5A" "NR" "Technology Development" 886 98 5 2013 2
+"Aerocube 5B" "NR" "Technology Development" 886 98 5 2013 2
+"Aerocube 6A" "NR" "Technology Development" 700 97.88 5 2014 3
+"Aerocube 6B" "NR" "Technology Development" 700 97.88 5 2014 3
+"Eutelsat 28B" "France" "Communications" 35808 1436.08 3460 2008 15
+"AIM" "USA" "Earth Observation" 552 96.2 215 2007 2
+"AISSat-1" "Norway" "Communications" 632 97.2 6 2010 3
+"AISSat-2" "Norway" "Communications" 631 97.27 6 2014 3
+"AIST-2" "Russia" "Technology Development" 582 96.06 53 2013 3
+"Al Yah-3" "NR (5/18)" "Communications" 35796 1436 3795 2018 15
+"Alcomsat" "Algeria" "Communications" 35798 1436.1 5225 2017 15
+"Alsat-2B" "Algeria" "Earth Observation" 660 97.7 117 2016 5
+"Alsat-1B" "Algeria" "Earth Observation" 704 98.4 103 2016 5
+"Alsat-2A" "Algeria" "Earth Observation" 674 98.2 130 2010 5
+"Altair-1" "NR (10/17)" "Technology Demonstration" 404 92.6 10 2017 0.25
+"Amazonas-2" "Brazil" "Communications" 35805 1436.08 5465 2009 15
+"Amazonas-3" "Brazil" "Communications" 35791 1436.05 6265 2013 15
+"Amazonas-4A" "NR" "Communications" 35795 1436.24 2938 2014 15
+"Amazonas-5" "NR (3/18)" "Communications" 35789 1436.11 5900 2017 15
+"AMC-1" "USA" "Communications" 35800 1436.1 2783 1996 15
+"AMC-10" "USA" "Communications" 35797 1436.09 2315 2004 15
+"AMC-11" "USA" "Communications" 35797 1436.07 2340 2004 15
+"AMC-15" "USA" "Communications" 35795 1436.08 4200 2004 15
+"AMC-16" "USA" "Communications" 35793 1436.1 4312 2004 15
+"AMC-18" "USA" "Communications" 35800 1436.1 2081 2006 15
+"AMC-2" "USA" "Communications" 35798 1436.1 2648 1997 15
+"AMC-21" "United Kingdom" "Communications" 35793 1436.1 2500 2008 15
+"AMC-4" "USA" "Communications" 35791 1436.1 3909 1999 15
+"AMC-6" "USA" "Communications" 35795 1436.12 3901 2000 15
+"AMC-7" "USA" "Communications" 35798 1436.08 1935 2000 15
+"AMC-8" "USA" "Communications" 35798 1436.07 2015 2000 15
+"Anik F1" "Canada" "Communications" 35793 1436.08 4710 2000 15
+"Anik F1R" "Canada" "Communications" 35795 1436.1 4500 2005 15
+"Anik F2" "Canada" "Communications" 35790 1436.08 5910 2004 15
+"Anik F3" "Canada" "Communications" 35794 1436.1 4715 2007 15
+"Anik G1" "NR" "Communications" 35799 1436.08 4905 2013 15
+"AOBA-Velox 3" "NR (10/17)" "Technology Development" 407 92.61 2 2016 0.5
+"Apstar 7" "China" "Communications" 35874 1440.31 5054 2012 15
+"Apstar 9" "China" "Communications" 35788 1436.01 5200 2015 15
+"Apstar 9A" "China" "Communications" 35795 1436.12 3000 1998 15
+"Arabsat 5C" "NR" "Communications" 35805 1436.06 4630 2011 15
+"Arabsat 7F" "Canada" "Communications" 35794 1436.09 3600 1999 12
+"ArSat 1" "Argentina" "Communications" 35795 1436.07 3000 2014 15
+"ArSat 2" "Argentina" "Communications" 35801 1436.06 2977 2015 15
+"AsiaSat-3S" "China" "Communications" 35792 1436.07 3480 1999 15
+"AsiaSat-4" "China" "Communications" 35789 1436.1 4137 2003 15
+"AsiaSat-5" "China" "Communications" 35795 1436.11 3760 2009 15
+"AsiaSat-6" "China" "Communications" 35793 1436.17 3700 2014 15
+"AsiaSat-7" "China" "Communications" 35793 1436.17 3813 2011 15
+"AsiaSat-8" "China" "Communications" 35793 1436.1 4500 2014 15
+"AsiaSat-9" "NR (3/18)" "Communications" 35790 1436.1 6140 2017 15
+"AsiaStar" "USA" "Communications" 35801 1436.15 2775 2000 15
+"ASNARO-1" "Japan" "Earth Observation" 507 94.75 500 2014 3
+"ASNARO-2" "NR (5/18)" "Earth Observation" 505 94.5 570 2018 3
+"ASTERIA" "NR (3/18)" "Technology Development" 405 92.6 12 2017 1
+"Astra 1D" "Luxembourg" "Communications" 35795 1436.08 2924 1994 15
+"Astra 1F" "Luxembourg" "Communications" 35797 1436.15 3010 1996 15
+"Astra 1G" "Luxembourg" "Communications" 35791 1436.08 3379 1997 15
+"Astra 1H" "Luxembourg" "Communications" 35794 1436.04 3690 1999 15
+"Astra 1KR" "Luxembourg" "Communications" 35807 1436.1 4332 2006 15
+"Astra 1L" "Luxembourg" "Communications" 35798 1436.03 4500 2007 15
+"Astra 1M" "Luxembourg" "Communications" 35852 1438.2 5345 2008 15
+"Astra 1N" "Luxembourg" "Communications" 35780 1434.1 5350 2011 15
+"Astra 2A" "Luxembourg" "Communications" 35797 1436.12 3635 1998 15
+"Astra 2B" "Luxembourg" "Communications" 35801 1436.11 3315 2000 14
+"Astra 2C" "Luxembourg" "Communications" 35804 1436.12 3643 2001 15
+"Astra 2D" "Luxembourg" "Communications" 35802 1436.1 1420 2000 15
+"Astra 2E" "Luxembourg" "Communications" 35793 1436.12 6052 2013 15
+"Astra 2F" "Luxembourg" "Communications" 35795 1436.07 6000 2012 15
+"Astra 2G" "NR (12/16)" "Communications" 35789 1436.11 6000 2014 15
+"Astra 3A" "Luxembourg" "Communications" 35804 1436.07 1500 2002 10
+"Astra 3B" "Luxembourg" "Communications" 35806 1436.11 5471 2010 15
+"Astra 5B" "Luxembourg" "Communications" 35793 1436.26 5724 2014 15
+"Astrosat" "NR" "Space Science" 649 97.54 230 2015 5
+"Athena-Fidus" "France" "Communications" 35788 1436.06 3080 2014 15
+"Aurora" "Russia" "Technology Development" 618 96.7 25 2014 1
+"Azerspace 1/Africasat-1a" "Azerbaijan" "Communications" 35794 1436.08 3250 2013 15
+"Azerspace 2/Intelsat-38" "NR (11/18)" "Communications" 35750 1436.1 3500 2018 15
+"Badr 4" "NR" "Communications" 35791 1436.06 3304 2006 15
+"Badr 5" "NR" "Communications" 35883 1439.76 5420 2010 15
+"Badr 5A" "NR" "Communications" 35623 1427.27 4940 2010 15
+"Badr 6" "NR" "Communications" 35805 1436.1 3400 2008 15
+"Badr 7" "NR" "Communications" 35817 1436 5500 2015 15
+"Bangabandhu 1" "NR (10/18)" "Communications" 35793 1436.06 3500 2018 15
+"Cosmos 2503" "Russia" "Earth Observation" 586 96.1 4000 2015 5
+"Cosmos 2515" "Russia" "Earth Observation" 594 96.1 4000 2016 5
+"BeeSat-1" "Germany" "Technology Development" 718 99 1 2009 1
+"BeeSat-2" "Germany" "Technology Development" 579 96.01 1 2013 1
+"Beidou 2-12" "China" "Navigation/Global Positioning" 21595 773.19 2200 2012 8
+"Beidou 2-13" "China" "Navigation/Global Positioning" 21603 773.21 2200 2012 8
+"Beidou 2-15" "China" "Navigation/Global Positioning" 21574 773.1 3800 2012 8
+"Beidou 2-16" "China" "Navigation/Global Positioning" 35799 1436.11 3800 2012 8
+"Beidou 2-17" "China" "Navigation/Global Positioning" 35890 1435.92 4200 2016 8
+"Beidou 2-18" "China" "Navigation/Global Positioning" 35794 1436.1 3800 2016 8
+"Beidou 3I-1S" "China" "Navigation/Global Positioning" 36781 1461.81 4200 2015 8
+"Beidou 3I-2S" "NR" "Navigation/Global Positioning" 35953 1435.73 4200 2015 8
+"Beidou 3-24" "NR (3/18)" "Navigation/Global Positioning" 21549 773.2 800 2017 8
+"Beidou 3-25" "NR (3/18)" "Navigation/Global Positioning" 22549 773.2 800 2017 8
+"Beidou 3M-1S" "NR" "Navigation/Global Positioning" 21549 773.2 800 2015 8
+"Beidou 3M-2S" "NR" "Navigation/Global Positioning" 21550 773.3 800 2015 8
+"Beidou 3M-3S" "NR (12/16)" "Navigation/Global Positioning" 21532 773.2 800 2016 8
+"Beidou DW 26" "NR (5/18)" "Navigation/Global Positioning" 21541 773.2 800 2018 8
+"Beidou DW 27" "NR (5/18)" "Navigation/Global Positioning" 21539 773.2 800 2018 8
+"Beidou DW 28" "NR (5/18)" "Navigation/Global Positioning" 21547 773.2 800 2018 8
+"Beidou DW 29" "NR (5/18)" "Navigation/Global Positioning" 21551 773.2 800 2018 8
+"Beidou DW 30" "NR (5/18)" "Navigation/Global Positioning" 21533 773.2 800 2018 8
+"Beidou DW 31" "NR (5/18)" "Navigation/Global Positioning" 22191 773.2 800 2018 8
+"Beidou DW 32" "NR (10/18)" "Navigation/Global Positioning" 35876 1436.1 800 2018 8
+"Beidou DW 33" "NR (10/18)" "Navigation/Global Positioning" 21545 773.2 800 2018 8
+"Beidou DW 34" "NR (10/18)" "Navigation/Global Positioning" 21538 773.2 800 2018 8
+"Beidou DW 35" "NR (11/18)" "Navigation/Global Positioning" 21540 773.2 800 2018 8
+"Beidou DW 36" "NR (11/18)" "Navigation/Global Positioning" 21537 773.2 800 2018 8
+"Beidou DW 37" "NR (11/18)" "Navigation/Global Positioning" 22193 787.1 800 2018 8
+"Beidou DW 38" "NR (11/18)" "Navigation/Global Positioning" 21541 773.1 800 2018 8
+"Beidou DW 39" "NR (11/18)" "Navigation/Global Positioning" 22195 787.4 800 2018 8
+"Beidou DW 40" "NR (11/18)" "Navigation/Global Positioning" 22195 787.4 800 2018 8
+"Beidou DW 41" "NR (11/18)" "Navigation/Global Positioning" 35795 1436.06 800 2018 8
+"Beidou DW 42" "NR (11/18)" "Navigation/Global Positioning" 22194 787.1 800 2018 8
+"Beidou DW 43" "NR (11/18)" "Navigation/Global Positioning" 22194 787.1 800 2018 8
+"Beidou G-1" "China" "Navigation/Global Positioning" 35803 1436.05 2200 2010 8
+"Beidou G3" "China" "Navigation/Global Positioning" 35797 1436.05 2200 2010 8
+"Beidou G4" "China" "Navigation/Global Positioning" 35809 1436.1 6000 2010 8
+"Beidou G5" "China" "Navigation/Global Positioning" 35799 1436.15 2300 2012 8
+"Beidou IGSO-1" "China" "Navigation/Global Positioning" 35893 1435.82 4200 2010 8
+"Beidou IGSO-2" "China" "Navigation/Global Positioning" 35817 1436.12 4200 2010 8
+"Beidou IGSO-4" "China" "Navigation/Global Positioning" 35879 1435.1 4200 2011 8
+"Beidou IGSO-5" "China" "Navigation/Global Positioning" 35864 1436.08 4200 2011 8
+"BeijinGalaxy-1" "China" "Earth Observation" 703 98.6 166 2005 7
+"Belintersat-1" "NR" "Communications" 35792 1436.06 5223 2016 15
+"BermudaSat-1" "USA" "Communications" 35798 1436.12 3700 2000 12
+"Bispectral InfraRed Detector 2 (Bird 2)" "Germany" "Earth Observation/Technology Development" 521 94.8 92 2001 1.5
+"BKA 2" "Belarus" "Earth Observation" 507 94.7 400 2012 5
+"BlackSky Pathfinder 1" "USA" "Earth Observation" 701 98.3 44 2016 3
+"Brazilsat B-2" "Brazil" "Communications" 35797 1436.11 1780 1995 12
+"Brazilsat B-3" "Brazil" "Communications" 35803 1436.07 1780 1998 12
+"Brazilsat B-4" "Brazil" "Communications" 35800 1436.09 2495 2000 12
+"BRISat" "Indonesia" "Communications" 35876 1436.2 3540 2016 15
+"BRITE-PL-1" "Poland" "Space Science" 886 99.6 10 2013 2
+"BRITE-PL-2" "NR" "Space Science" 633 97.1 10 2014 2
+"BSAT-3A" "Japan" "Communications" 35794 1436.1 1980 2007 13
+"BSAT-3B" "Japan" "Communications" 35725 1365.61 2060 2010 15
+"BSAT-3C/JCSat 110-R" "Japan" "Communications" 35787 1436.04 2910 2011 15
+"BSAT-4A" "NR (3/18)" "Communications" 35725 1432.7 3520 2017 15
+"Buccaneer RMM" "NR (3/18)" "Technology Development" 819 97.4 4 2017 5
+"BulgariaSat-1" "NR (10/17)" "Communications" 35797 1436 3669 2017 15
+"Calipso" "France" "Earth Science" 703 98.8 587 2006 3
+"CartoSat 1" "India" "Earth Observation" 619 97.1 1560 2005 6
+"CartoSat 2" "India" "Earth Observation" 635 97.4 680 2007 5
+"CartoSat 2A" "India" "Earth Observation" 643 97.4 680 2008 5
+"CartoSat 2B" "India" "Earth Observation" 645 97.4 694 2010 5
+"CartoSat 2C" "India" "Earth Observation" 519 94.8 727 2016 5
+"CartoSat 2D" "India" "Earth Observation" 508 94.8 714 2017 5
+"CartoSat 2E" "India" "Earth Observation" 347 91.34 712 2017 5
+"CartoSat 2F" "NR (5/18)" "Earth Observation" 510 94.6 712 2018 5
+"Cassiope" "NR" "Earth Science" 1486 103.11 490 2013 2
+"CBERS 4" "NR" "Earth Observation" 748 99.67 1980 2014 3
+"CFOSat" "NR (11/18)" "Earth Observation" 523 95 700 2018 3
+"Chandra X-Ray Observatory (CXO)" "USA" "Space Science" 138825 3808.92 4742 1999 5
+"ChinaSat 11" "China" "Communications" 35793 1436.14 5100 2013 15
+"ChinaSat 1C" "NR" "Communications" 35796 1436.12 5200 2015 15
+"ChinaSat 2C" "NR" "Communications" 35801 1436.1 5200 2015 15
+"ChinaSat 6B" "China" "Communications" 35797 1436.1 4600 2007 15
+"ChinaSat 9A" "NR (10/17)" "Communications" 35800 1436.1 5000 2017 15
+"Ciel-2" "Canada" "Communications" 35788 1436.05 5585 2008 15
+"Cloudsat" "USA" "Earth Observation" 703 98.8 848 2006 2
+"COMSATBw-1" "Germany" "Communications" 35799 1436.1 2440 2009 15
+"COMSATBw-2" "Germany" "Communications" 35794 1436.11 2440 2010 15
+"Coriolis" "USA" "Earth Observation" 841 101.5 817 2003 3
+"COSMIC-A" "NR" "Earth Observation" 836 100.9 70 2006 2
+"COSMIC-B" "NR" "Earth Observation" 831 100.9 70 2006 2
+"COSMIC-D" "NR" "Earth Observation" 746 98.9 70 2006 2
+"COSMIC-E" "NR" "Earth Observation" 849 100.9 70 2006 2
+"COSMIC-F" "NR" "Earth Observation" 828 100.9 70 2006 2
+"COSMO-Skymed 1" "Italy" "Earth Observation" 623 97.2 1700 2007 5
+"COSMO-Skymed 2" "Italy" "Earth Observation" 623 97.2 1700 2007 5
+"COSMO-Skymed 3" "Italy" "Earth Observation" 623 97.2 1700 2008 5
+"COSMO-Skymed 4" "Italy" "Earth Observation" 623 97.2 1700 2010 5
+"Cryosat-2" "ESA" "Earth Observation" 724 99.2 720 2010 3
+"CXBN-2" "NR (10/17)" "Space Science" 406 92.6 2 2017 0.5
+"Daichi-2" "NR" "Earth Observation" 635 97.36 2120 2014 7
+"DAMPE" "NR" "Space Science" 505 94.54 1850 2015 3
+"Deimos 1" "Spain" "Earth Observation" 662 98 90 2009 5
+"Deimos 2" "NR" "Earth Observation" 619 96.85 310 2014 10
+"Dellingr" "NR (3/18)" "Technology Development" 404 92.6 12 2017 1
+"DirecTV-10" "USA" "Communications" 35788 1436.1 5900 2007 15
+"DirecTV-12" "USA" "Communications" 35786 1436.04 5900 2009 15
+"DirecTV-14" "USA" "Communications" 35933 1443.51 5900 2014 15
+"DirecTV-15" "NR" "Communications" 35809 1434.07 5500 2015 15
+"DirecTV-1R" "USA" "Communications" 35795 1436.1 3420 1999 15
+"DirecTV-4S" "USA" "Communications" 35792 1436.09 4300 2001 15
+"DirecTV-5" "USA" "Communications" 35799 1436.08 4300 2002 15
+"DirecTV-7S" "USA" "Communications" 35797 1436.1 5483 2004 15
+"DirecTV-8" "USA" "Communications" 35796 1436.1 3800 2005 12
+"DirecTV-9S" "USA" "Communications" 35798 1436.1 5500 2006 15
+"Diwata-2B" "NR (11/18)" "Earth Observation" 616 96.8 56 2018 1
+"DLR Tubsat" "NR" "Earth Science" 732 99.2 45 1999 1
+"DMC 3-1" "United Kingdom" "Earth Observation" 663 97.71 447 2015 10
+"DMC 3-2" "United Kingdom" "Earth Observation" 663 97.71 447 2015 10
+"DMC 3-3" "United Kingdom" "Earth Observation" 661 97.69 447 2015 10
+"USA 131" "USA" "Earth Observation" 855 101.9 1134 1997 5
+"USA 147" "USA" "Earth Observation" 851 101.8 1152 1999 5
+"USA 172" "USA" "Earth Observation" 852 101.87 1154 2003 5
+"USA 173" "USA" "Earth Observation" 855 101.89 1154 2006 5
+"USA 210" "USA" "Earth Observation" 859 101.94 1155 2009 5
+"Data Relay Test Satellite (DRTS)" "Japan" "Technology Development" 35799 1436.12 2650 2002 7
+"USA 167" "USA" "Communications" 35802 1436.12 1156 2003 10
+"USA 170" "USA" "Communications" 35814 1436.1 1156 2003 10
+"USA 135" "USA" "Communications" 35817 1436.1 1156 1997 10
+"USA 148" "USA" "Communications" 35868 1436.13 1156 2000 10
+"USA 153" "USA" "Communications" 35799 1436.12 1156 2000 10
+"USA 113" "USA" "Communications" 35784 1436.1 1156 1995 10
+"USA 130" "USA" "Earth Observation" 35800 1436.27 2380 1997 5
+"USA 149" "USA" "Earth Observation" 35909 142.08 2380 2000 9
+"USA 159" "USA" "Earth Observation" 35810 1436.14 2380 2001 9
+"USA 176" "USA" "Earth Observation" 35832 1436.12 2380 2004 9
+"DubaiSat-2" "United Arab Emirates" "Earth Observation" 603 96.56 300 2013 5
+"Eagle-1" "USA" "Communications" 35795 1436.08 2845 1997 15
+"EcAMSat" "NR (11/18)" "Space Science" 408 92.6 10 2017 1
+"Echostar 10" "USA" "Communications" 35792 1436 4333 2006 15
+"Echostar 11" "USA" "Communications" 35793 1436.1 5500 2008 15
+"Echostar 12" "USA" "Communications" 35791 1436.11 4328 2003 18
+"Echostar 14" "USA" "Communications" 35789 1436.11 6384 2010 15
+"Echostar 15" "USA" "Communications" 35803 1436.57 5521 2010 15
+"Echostar 16" "USA" "Communications" 35796 1436.06 6658 2012 15
+"Echostar 17" "USA" "Communications" 35794 1436.13 6100 2012 15
+"Echostar 18" "USA" "Communications" 35788 1436.3 6300 2016 15
+"Echostar 19" "USA" "Communications" 35796 1436.3 6764 2016 15
+"Echostar 21" "United Kingdom" "Communications" 35799 1436.1 6900 2017 15
+"Echostar 23" "USA" "Communications" 35803 1436.1 5600 2017 15
+"Echostar 7 " "USA" "Communications" 35789 1436.07 4027 2002 12
+"Echostar 9/Galaxy 23" "USA" "Communications" 35797 1436.08 4000 2003 13
+"Echostar G1" "USA" "Communications" 35799 1436.1 6600 2008 15
+"Electro-L1" "Russia" "Earth Observation" 35750 1423.35 1766 2011 10
+"Electro-L2" "Russia" "Earth Observation" 35815 1434.47 1800 2015 10
+"Terra" "USA" "Earth Observation" 703 98.8 4854 1999 6
+"Aura" "USA" "Earth Observation" 703 98.8 2967 2004 5
+"Aqua" "USA" "Earth Observation" 704 98.8 2934 2002 6
+"ERG" "Japan" "Space Science" 33200 580 350 2016 1
+"EROS B-1" "NR" "Earth Observation" 514 94.8 350 2006 10
+"Es'hail-2" "NR (11/18)" "Communications" 35798 1436.1 5300 2018 15
+"Eurasiasat 1" "Turkey" "Communications" 35810 1436.06 3535 2001 15
+"Eutelsat 10A" "France" "Communications" 35822 1436.09 5900 2009 15
+"Eutelsat 113 West-A" "Mexico" "Communications" 35796 1436.1 5456 2006 15
+"Eutelsat 117 West A" "Mexico" "Communications" 35795 1436.1 5474 2013 15
+"Eutelsat 117 West B" "Mexico" "Communications" 35795 1436.1 5500 2016 15
+"Eutelsat 12 West A" "France" "Communications" 35805 1436.1 2700 2002 15
+"Eutelsat 172A" "USA" "Communications" 35799 1436.1 5000 2005 16
+"Eutelsat 172B" "France" "Communications" 35816 1436.1 3600 2017 15
+"Eutelsat 33A" "France" "Communications" 35790 1436.06 1525 2003 10
+"Eutelsat 33C" "France" "Communications" 35794 1436.1 2950 2001 12
+"Eutelsat 36A" "France" "Communications" 35806 1436.08 3190 2000 12
+"Eutelsat 36B" "France" "Communications" 35787 1436.09 5600 2009 15
+"Eutelsat 3B" "France" "Communications" 35791 1436.1 5967 2014 15
+"Eutelsat 48B" "France" "Communications" 35797 1436.12 5102 2012 15
+"Eutelsat 5 West A" "France" "Communications" 35805 1436.08 4050 2002 15
+"Eutelsat 65 West-A" "France" "Communications" 35796 1436.07 6654 2016 15
+"Eutelsat 7 West A" "France" "Communications" 35799 1436.09 4600 2011 15
+"Eutelsat 70B" "France" "Communications" 35800 1436.28 5250 2012 15
+"Eutelsat 7A" "France" "Communications" 35802 1436.07 4300 2004 15
+"Eutelsat 7B" "France" "Communications" 35794 1436.21 5404 2013 15
+"Eutelsat 8 West A" "France" "Communications" 35806 1436.1 3150 2001 15
+"Eutelsat 8 West B" "NR" "Communications" 35814 1436.1 5800 2015 15
+"Eutelsat Hot Bird 13A" "France" "Communications" 35815 1436.06 3800 2002 12
+"Eutelsat 9A" "France" "Communications" 35799 1436.1 4100 2006 15
+"Eutelsat Hot Bird 13D" "France" "Communications" 35806 1436.07 4892 2009 15
+"Eutelsat Hot Bird 13B" "France" "Communications" 35812 1436.06 4900 2006 15
+"Eutelsat Hot Bird 13C" "France" "Communications" 35787 1436.09 4880 2008 15
+"Eutelsat Hot Bird 13E" "France" "Communications" 35792 1436.06 5200 2016 15
+"Eutelsat KA-SAT 9A" "France" "Communications" 35856 1436.01 6150 2010 15
+"Express AM-22" "Russia" "Communications" 35790 1436.06 2600 2003 12
+"Express AMU1" "Russia" "Communications" 35795 1436.1 2700 2015 15
+"Express-A1R" "Russia" "Communications" 35798 1436.1 2600 2002 10
+"Express-AM2" "Russia" "Communications" 35788 1436.1 2542 2005 12
+"Express-AM3" "Russia" "Communications" 35795 1436.1 2600 2005 12
+"Express-AM33" "Russia" "Communications" 35791 1436.1 2600 2008 12
+"Express-AM44" "Russia" "Communications" 35995 1446.57 2532 2009 12
+"Express-AM5" "Russia" "Communications" 35940 1430.6 3400 2013 15
+"Express-AM6" "Russia" "Communications" 37636 1440.09 3358 2014 15
+"Express-AM7" "Russia" "Communications" 35796 1436.1 5720 2015 15
+"Express-AM8" "Russia" "Communications" 35788 1436.09 2100 2015 15
+"Express-AT1" "Russia" "Communications" 35804 1436.4 1726 2014 15
+"Express-AT2" "Russia" "Communications" 35715 1429.75 1427 2014 15
+"Fengyun 2E" "China" "Earth Observation" 35803 1436.04 1390 2008 3
+"Fengyun 2F" "China" "Earth Observation" 35816 1436.19 1390 2012 3
+"Fengyun 4H" "NR (10/18)" "Earth Observation" 35804 1436.1 1380 2018 5
+"Fengyun 3D" "NR (3/18)" "Earth Observation" 812 101.1 2300 2017 8
+"Firebird-C" "USA" "Space Science" 667 95.7 2 2015 0.25
+"Firebird-D" "USA" "Space Science" 675 97.7 2 2015 0.25
+"FLP" "Germany" "Earth Observation/Space Science" 606 96.6 120 2017 2
+"USA 46" "USA" "Communications" 35829 1436.13 2310 1989 5
+"FormoSat-5" "NR (10/17)" "Earth Observation" 729 99.1 525 2017 5
+"Fast On-orbit Recording of Transient Events) FORTÉ " "USA" "Earth Observation" 823 101 215 1997 3
+"Fox-1A" "NR" "Communications/Technology Development" 802 97.7 1 2015 11
+"Galaxy-11" "USA" "Communications" 35795 1436.11 4488 1999 14
+"Galaxy-12" "USA" "Communications" 35796 1436.07 1760 2003 15
+"Galaxy-13" "USA" "Communications" 35790 1436.07 4060 2003 15
+"Galaxy-14" "USA" "Communications" 35795 1436.07 2086 2005 15
+"Galaxy-15" "USA" "Communications" 35795 1436.07 2033 2005 15
+"Galaxy-16" "USA" "Communications" 35798 1436.1 4640 2006 15
+"Galaxy-17" "USA" "Communications" 35799 1436.1 4100 2007 15
+"Galaxy-18" "USA" "Communications" 35798 1436.1 4642 2008 15
+"Galaxy-19" "USA" "Communications" 35796 1436.1 4690 2008 15
+"Galaxy-25" "USA" "Communications" 35801 1436.08 3515 1997 13
+"Galaxy-28" "USA" "Communications" 35798 1436.1 5493 2005 13
+"Galaxy-3C" "USA" "Communications" 35788 1436.11 4860 2002 15
+"Galileo FOC FM1" "NR" "Navigation/Global Positioning" 25971 776.25 733 2014 12
+"Galileo FOC FM10" "NR (12/16)" "Navigation/Global Positioning" 23280 847.01 723 2016 12
+"Galileo FOC FM11" "NR (12/16)" "Navigation/Global Positioning" 23530 856.9 723 2016 12
+"Galileo FOC FM12" "NR (12/16)" "Navigation/Global Positioning" 23055 846 723 2016 12
+"Galileo FOC FM13" "NR (12/16)" "Navigation/Global Positioning" 22982 834 723 2016 12
+"Galileo FOC FM14" "NR (12/16)" "Navigation/Global Positioning" 23296 847 723 2016 12
+"Galileo FOC FM15" "NR (4/18)" "Navigation/Global Positioning" 23184 842.6 715 2017 12
+"Galileo FOC FM16" "NR (4/18)" "Navigation/Global Positioning" 22927 831.6 715 2017 12
+"Galileo FOC FM17" "NR (4/18)" "Navigation/Global Positioning" 22918 831.4 715 2017 12
+"Galileo FOC FM18" "NR (4/18)" "Navigation/Global Positioning" 23149 830.9 715 2017 12
+"Galileo FOC FM19" "NR (10/18)" "Navigation/Global Positioning" 23250 840.2 715 2017 12
+"Galileo FOC FM2" "NR" "Navigation/Global Positioning" 25918 705.11 733 2014 12
+"Galileo FOC FM20" "NR (10/18)" "Navigation/Global Positioning" 23149 831.2 715 2017 12
+"Galileo FOC FM21" "NR (10/18)" "Navigation/Global Positioning" 22980 834.2 715 2017 12
+"Galileo FOC FM22" "NR (10/18)" "Navigation/Global Positioning" 23047 836.6 715 2017 12
+"Galileo FOC FM3" "NR" "Navigation/Global Positioning" 23574 858.55 723 2015 12
+"Galileo FOC FM4" "NR" "Navigation/Global Positioning" 23382 850.5 723 2015 12
+"Galileo FOC FM5" "NR" "Navigation/Global Positioning" 23240 845 723 2015 12
+"Galileo FOC FM6" "NR" "Navigation/Global Positioning" 23239 844 723 2015 12
+"Galileo FOC FM7" "NR (12/16)" "Navigation/Global Positioning" 23305 847 723 2016 12
+"Galileo FOC FM8" "NR" "Navigation/Global Positioning" 23618 860.51 723 2015 12
+"Galileo FOC FM9" "NR" "Navigation/Global Positioning" 23568 858.34 723 2015 12
+"Galileo IOV-1 FM2" "NR" "Navigation/Global Positioning" 23307 846.98 700 2011 12
+"Galileo IOV-1 PFM" "NR" "Navigation/Global Positioning" 23306 846.88 700 2011 12
+"Galileo IOV-2 FM3" "NR" "Navigation/Global Positioning" 23233 844.76 700 2012 12
+"Galileo IOV-2 FM4" "NR" "Navigation/Global Positioning" 23227 844.69 700 2012 12
+"Gaofen 1" "China" "Earth Observation" 654 97.56 1000 2013 8
+"Gaofen 11" "NR (10/18)" "Earth Observation" 689 93.9 1000 2018 8
+"Gaofen 2" "NR" "Earth Observation" 636 97.06 1000 2014 8
+"Gaofen 3" "NR" "Earth Observation" 759 99.8 1000 2016 8
+"Gaofen 4" "NR" "Earth Observation" 35796 1436.1 4600 2015 8
+"Gaofen 8" "NR" "Earth Observation" 492 94.36 1000 2015 8
+"Gaofen 9" "NR" "Earth Observation" 664 97.54 1000 2015 8
+"Gaofen-1-02" "NR (5/18)" "Earth Observation" 642 97.5 805 2018 8
+"Gaofen-1-03" "NR (5/18)" "Earth Observation" 640 97.5 805 2018 8
+"Gaofen-1-04" "NR (5/18)" "Earth Observation" 642 97.5 805 2018 8
+"Gaofen-1-05" "NR (10/18)" "Earth Observation" 695 98.4 805 2018 8
+"Gaofen-1-06" "NR (10/18)" "Earth Observation" 647 97.3 1064 2018 8
+"GCOM-C" "NR (5/18)" "Earth Observation" 793 100.69 2200 2017 5
+"Genesis-1" "USA" "Technology Development" 569 95.6 1360 2006 5
+"Genesis-2" "USA" "Technology Development" 586 95.6 1360 2007 5
+"Cosmos 2517" "Russia" "Earth Science" 963 104.03 900 2016 5
+"GeoEye-1" "USA" "Earth Observation" 686 98.3 1955 2008 7
+"GCOM-1" "Japan" "Earth Observation" 704 98.8 1900 2012 5
+"Globalstar FM37" "USA" "Communications" 1417 114.1 450 1999 10
+"Globalstar M065" "USA" "Communications" 1416 114.1 450 2007 10
+"Globalstar M066" "USA" "Communications" 1415 114.1 450 2007 10
+"Globalstar M067" "USA" "Communications" 1414 114.1 450 2007 10
+"Globalstar M068" "USA" "Communications" 1414 114 450 2007 10
+"Globalstar M069" "USA" "Communications" 1416 114.1 450 2007 10
+"Globalstar M070" "USA" "Communications" 1415 114.1 450 2007 10
+"Globalstar M071" "USA" "Communications" 1415 114.1 450 2007 10
+"Globalstar M072" "USA" "Communications" 1416 114.1 450 2007 10
+"Globalstar M073" "France" "Communications" 1414 114.1 700 2010 15
+"Globalstar M074" "France" "Communications" 1415 114.1 700 2010 15
+"Globalstar M075" "France" "Communications" 1415 114.1 700 2010 15
+"Globalstar M076" "France" "Communications" 1415 114.1 700 2010 15
+"Globalstar M077" "France" "Communications" 1414 114.1 700 2010 15
+"Globalstar M078" "France" "Communications" 1415 114.08 700 2013 15
+"Globalstar M079" "France" "Communications" 1414 114.1 700 2010 15
+"Globalstar M080" "France" "Communications" 1414 114.1 700 2011 15
+"Globalstar M081" "France" "Communications" 1415 114.1 700 2011 15
+"Globalstar M082" "France" "Communications" 1414 114.1 700 2011 15
+"Globalstar M083" "France" "Communications" 1414 114.1 700 2011 15
+"Globalstar M084" "France" "Communications" 1414 114.1 700 2011 15
+"Globalstar M085" "France" "Communications" 1415 114.1 700 2011 15
+"Globalstar M086" "France" "Communications" 1414 114.1 700 2011 15
+"Globalstar M088" "France" "Communications" 1415 114.1 700 2011 15
+"Globalstar M089" "France" "Communications" 1415 118.2 700 2011 15
+"Globalstar M090" "France" "Communications" 1414 114.1 700 2011 15
+"Globalstar M091" "France" "Communications" 1415 114.1 700 2011 15
+"Globalstar M092" "France" "Communications" 1414 114.1 700 2011 15
+"Globalstar M093" "France" "Communications" 1415 113.35 700 2013 15
+"Globalstar M094" "France" "Communications" 1414 103.44 700 2013 15
+"Globalstar M095" "France" "Communications" 1414 114.08 700 2013 15
+"Globalstar M096" "France" "Communications" 1414 103.48 700 2013 15
+"Globalstar M097" "France" "Communications" 1391 113.96 700 2013 15
+"Cosmos 2471" "Russia" "Navigation/Global Positioning" 19146 675.78 935 2011 10
+"Cosmos 2501" "Russia" "Navigation/Global Positioning" 19178 676.15 935 2014 10
+"Cosmos 2424" "Russia" "Navigation/Global Positioning" 19130 675.75 1480 2006 7
+"Cosmos 2425" "Russia" "Navigation/Global Positioning" 19130 675.75 1480 2006 7
+"Cosmos 2426" "Russia" "Navigation/Global Positioning" 19130 675.75 1480 2006 7
+"Cosmos 2432" "Russia" "Navigation/Global Positioning" 19171 675.83 1480 2007 7
+"Cosmos 2433" "Russia" "Navigation/Global Positioning" 19133 675.67 1480 2007 7
+"Cosmos 2434" "Russia" "Navigation/Global Positioning" 19378 680.91 1480 2007 7
+"Cosmos 2436" "Russia" "Navigation/Global Positioning" 19365 680.75 1480 2007 7
+"Cosmos 2456" "Russia" "Navigation/Global Positioning" 19419 681.53 1415 2009 7
+"Cosmos 2459" "Russia" "Navigation/Global Positioning" 19146 675.85 1415 2010 7
+"Cosmos 2460" "Russia" "Navigation/Global Positioning" 19133 675.81 1415 2010 7
+"Cosmos 2457" "Russia" "Navigation/Global Positioning" 19130 670.47 1415 2009 7
+"Cosmos 2458" "Russia" "Navigation/Global Positioning" 19129 675.08 1415 2009 7
+"Cosmos 2461" "Russia" "Navigation/Global Positioning" 19135 675.81 1415 2010 7
+"Cosmos 2464" "Russia" "Navigation/Global Positioning" 19123 671.2 1415 2010 7
+"Cosmos 2474" "Russia" "Navigation/Global Positioning" 19158 676.2 1415 2011 7
+"Cosmos 2476" "Russia" "Navigation/Global Positioning" 19204 677.46 1415 2011 7
+"Cosmos 2477" "Russia" "Navigation/Global Positioning" 19199 677.5 1415 2011 7
+"Cosmos 2475" "Russia" "Navigation/Global Positioning" 19212 677.54 1415 2011 7
+"Cosmos 2485" "Russia" "Navigation/Global Positioning" 19173 675.73 1415 2013 7
+"Cosmos 2514" "Russia" "Navigation/Global Positioning" 19154 675.75 1415 2016 7
+"Cosmos 2522" "Russia" "Navigation/Global Positioning" 19156 675.75 1415 2017 7
+"Cosmos 2516" "Russia" "Navigation/Global Positioning" 19153 675.49 1415 2016 7
+"Cosmos 2491" "Russia" "Navigation/Global Positioning" 19177 675.74 1415 2014 7
+"Cosmos 2500" "Russia" "Navigation/Global Positioning" 19146 675.73 1415 2014 7
+"Cosmos 2527" "NR (10/18)" "Navigation/Global Positioning" 19154 676.03 1415 2018 7
+"Cosmos 2529" "NR (11/18)" "Navigation/Global Positioning" 19163 767.2 1415 2018 7
+"GOES-13" "USA" "Earth Observation" 35801 1436 3200 2006 7
+"GOES-14" "USA" "Earth Observation" 35170 1436 3200 2009 10
+"GOES-15" "USA" "Earth Observation" 35788 1436.14 3175 2010 10
+"GOES-R" "USA" "Earth Observation" 35795 1436.1 5192 2016 20
+"GOES-S" "NR (5/18)" "Earth Observation" 35795 1436.09 5211 2018 15
+"Göktürk 1" "NR" "Earth Observation" 683 98.42 1060 2016 7
+"Göktürk 2" "NR" "Earth Observation" 690 98.35 409 2012 5
+"Gonets M-03" "Russia" "Communications" 1510 115.9 270 2012 7
+"Gonets M-04" "Russia" "Communications" 1511 115.9 270 2012 7
+"Gonets M-05" "Russia" "Communications" 1510 116.1 270 2010 7
+"Gonets M-11" "Russia" "Communications" 1508 116 280 2015 7
+"Gonets M-12" "Russia" "Communications" 1506 116 280 2015 7
+"Gonets M-13" "Russia" "Communications" 1504 116 280 2015 7
+"Gonets M-14" "Russia" "Communications" 1507 115.86 270 2013 7
+"Gonets M-16" "Russia" "Communications" 1508 116 270 2013 7
+"Gonets M-17" "Russia" "Communications" 1509 116.02 270 2013 7
+"Gonets M-18" "Russia" "Communications" 1510 115.87 280 2014 7
+"Gonets M-19" "Russia" "Communications" 1512 115.89 280 2014 7
+"Gonets M-20" "Russia" "Communications" 1509 115.84 280 2014 7
+"GOSAT-2" "NR (11/18)" "Earth Observation" 599 96.5 1800 2018 5
+"GovSat-1" "NR (5/18)" "Communications" 35807 1436.1 4230 2018 15
+"Grace Follow-on-1" "NR (10/18)" "Earth Observation" 504 94.5 600 2018 5
+"Grace Follow-on-2" "NR (10/18)" "Earth Observation" 504 94.5 600 2018 5
+"Ibuki" "Japan" "Earth Observation" 670 98.1 1750 2009 5
+"GSAT-10" "India" "Communications" 35795 1436.07 3400 2012 15
+"GSAT-12" "India" "Communications" 35811 1436.1 1410 2011 8
+"GSAT-14" "India" "Communications" 35810 1436.1 1982 2014 12
+"GSAT-15" "NR" "Communications" 35805 1436.1 3164 2015 12
+"GSAT-16" "NR" "Communications" 35798 1436.1 3181 2014 15
+"GSAT-17" "India" "Communications" 35817 1436.1 3477 2017 15
+"GSAT-18" "India" "Communications" 35812 1436.1 3404 2016 15
+"GSAT-19E" "India" "Communications" 35795 1436.1 3136 2017 10
+"GSAT-2" "India" "Communications/Technology Development" 35796 1436.07 1825 2003 5
+"GSAT-29" "NR (11/18)" "Communications" 37807 1436.1 3400 2018 10
+"GSAT-6" "NR" "Communications" 35775 1436.1 2110 2015 12
+"GSAT-7" "India" "Communications" 35814 1436 2650 2013 7
+"GSAT-8" "India" "Communications/Navigation" 35796 1436.23 3093 2011 12
+"Haiyang 2A" "China" "Earth Observation" 967 104.4 1500 2011 3
+"Haiyang 2B" "NR (11/18)" "Earth Observation" 957 104.1 1500 2018 3
+"Havelsat" "Belgium" "Technology Development" 406 92.6 2 2017 0.25
+"HEAD-1" "NR (3/18)" "Earth Observation" 809 100.9 45 2017 3
+"Helios 2A" "NR" "Earth Observation" 683 98 4200 2004 5
+"Helios 2B" "France" "Earth Observation" 682 98.37 4200 2009 5
+"HellasSat 3" "NR (10/17)" "Communications" 35788 1436.1 5780 2017 15
+"HellasSat 2" "Greece" "Communications" 35803 1436.08 3300 2003 15
+"RHESSI (Reuven Ramaty High Energy Solar Spectroscopic Imager)" "USA" "Space Science" 551 95.5 293 2002 3
+"Himawari 8" "Japan" "Earth Observation" 35797 1436.06 3500 2014 8
+"Himawari 9" "Japan" "Earth Observation" 35799 1436.1 3500 2016 8
+"Hinode" "Japan" "Space Science" 696 98.4 700 2006 3
+"Hisaki" "Japan" "Space Science" 1155 106.27 348 2013 1
+"HiSIS" "NR (11/18)" "Earth Observation" 648 95 380 2018 5
+"Hispasat 1D" "Spain" "Communications" 35809 1436.11 3288 2002 15
+"Hispasat 1E" "NR" "Communications" 35786 1435.95 5320 2010 15
+"Hispasat 30W-6" "NR (5/18)" "Communications" 35788 1436.11 6100 2018 15
+"Hispasat 36W-1" "NR (9/17)" "Communications" 35791 1436.1 3220 2017 15
+"HJ-1A" "China" "Earth Observation" 665 97.7 470 2008 3
+"HJ-1B" "China" "Earth Observation" 673 97.7 470 2008 3
+"HJ-1C" "China" "Earth Observation" 438 94.53 890 2012 3
+"Horizons 2" "USA" "Communications" 35796 1436.1 2300 2007 15
+"Horizons 3e" "NR (11/18)" "Communications" 35798 1436.1 6500 2018 15
+"Horyu-2" "Japan" "Technology Development" 669 97.9 7 2012 1
+"Hubble Space Telescope" "USA" "Space Science" 559 95.8 11110 1990 10
+"HXMT" "NR (10/17)" "Space Science" 545 95.4 2500 2017 4
+"HYLAS 4" "NR (5/18)" "Communications" 35795 1436.1 4050 2018 15
+"HYLAS 1" "United Kingdom" "Communications" 35803 1436.07 2242 2010 15
+"HYLAS 2" "United Kingdom" "Communications" 35799 1436.14 3311 2012 15
+"Icesat-2" "NR (11/18)" "Earth Science" 468 93.8 1515 2018 3
+"IGS Optical 5" "NR" "Earth Observation" 515 95.2 1600 2015 5
+"IGS Optical 6" "NR (5/18)" "Earth Observation" 499 94.5 1600 2018 5
+"IGS Radar 5" "Japan" "Earth Observation" 499 94.5 1600 2017 5
+"IGS Radar 6" "NR (10/18)" "Earth Observation" 500 94.6 1600 2018 5
+"IGS-5A" "Japan" "Earth Observation" 492 94.37 1600 2009 5
+"IGS-6A" "Japan" "Earth Observation" 591 96.47 1600 2011 5
+"IGS-7A" "Japan" "Earth Observation" 514 94.89 1600 2011 5
+"IGS-8A" "Japan" "Earth Observation" 514 94.85 1600 2013 5
+"IGS-8B" "Japan" "Earth Observation" 523 94.85 1600 2013 5
+"IGS-9A" "NR" "Earth Observation" 510 94.85 1600 2015 5
+"INMARSAT 3 F1" "NR" "Communications" 35808 1436.08 2064 1996 13
+"INMARSAT 3 F2" "NR" "Communications" 35809 1436.1 2070 1996 13
+"INMARSAT 3 F3" "NR" "Communications" 35810 1436.07 2074 1996 13
+"INMARSAT 3 F5" "NR" "Communications" 35803 1436.07 2000 1998 13
+"INMARSAT 4 F1" "United Kingdom" "Communications" 35799 1436.08 5959 2005 15
+"INMARSAT 4 F2" "United Kingdom" "Communications" 35800 1436.11 5458 2005 15
+"INMARSAT 4 F3" "United Kingdom" "Communications" 35798 1436.1 5960 2008 15
+"INMARSAT 5 F1" "United Kingdom" "Communications" 35790 1436.13 6070 2013 15
+"INMARSAT 5 F2" "United Kingdom" "Communications" 35789 1436 6105 2015 15
+"INMARSAT 5 F3" "United Kingdom" "Communications" 35780 1436.1 6100 2015 15
+"INMARSAT 5 F4" "United Kingdom" "Communications" 35789 1436.08 6086 2017 15
+"INMARSAT IV-A F4" "United Kingdom" "Communications/Technology Development" 35787 1436.09 6650 2013 15
+"INS-1C" "NR (5/18)" "Technology Development" 508 94.6 5 2018 0.5
+"INSAT 3DR" "NR" "Earth Observation" 35851 1436.1 2200 2016 10
+"INSAT 4A" "India" "Communications" 35796 1436.1 3100 2005 12
+"INSAT 4CR" "India" "Communications" 37791 1436.11 2130 2007 12
+"INTErnational Gamma-Ray Astrophysics Laboratory (INTEGRAL)" "ESA" "Space Science" 156833 4032.86 4000 2002 2
+"Intelsat 10" "USA" "Communications" 35796 1436.08 3739 2001 15
+"Intelsat 10-02" "USA" "Communications" 35789 1436.08 5576 2004 13
+"Intelsat 11" "USA" "Communications" 35795 1436.1 2491 2007 15
+"Intelsat 12" "United Kingdom" "Communications" 35796 1436.09 4167 2000 18
+"Intelsat 14" "USA" "Communications" 35800 1436.05 5613 2009 16
+"Intelsat 15" "USA" "Communications" 35798 1436.12 2550 2009 17
+"Intelsat 16" "USA" "Communications" 35791 1436.19 2450 2010 15
+"Intelsat 17" "USA" "Communications" 35804 1436.12 5540 2010 16
+"Intelsat 18" "USA" "Communications" 35797 1436.09 3200 2011 15
+"Intelsat 19" "USA" "Communications" 35801 1436.01 5600 2012 15
+"Intelsat 1R" "USA" "Communications" 35788 1436.11 4793 2000 15
+"Intelsat 20" "USA" "Communications" 35790 1436.03 6094 2012 18
+"Intelsat 21" "USA" "Communications" 35811 1436.39 5984 2012 15
+"Intelsat 22" "USA" "Communications" 35792 1436.11 6199 2012 18
+"Intelsat 23" "NR" "Communications" 35797 1436.21 3200 2012 18
+"Intelsat 25" "NR" "Communications" 35793 1436.1 4100 2008 16
+"JCSat R" "Japan" "Communications" 35794 1436.1 3124 1997 12
+"Intelsat 29E" "NR" "Communications" 35788 1436.11 6500 2016 15
+"Intelsat 30/DLA 1" "NR" "Communications" 35793 1435.97 6220 2014 15
+"Intelsat 31/DLA 2" "NR" "Communications" 35860 1435.1 6450 2016 20
+"Intelsat 33" "NR" "Communications" 36152 1439.36 6600 2016 15
+"Intelsat 34" "NR" "Communications" 35811 1436.1 3300 2015 15
+"Intelsat 35E" "NR" "Communications" 35794 1436.09 6761 2017 15
+"Intelsat 36" "NR" "Communications" 35801 1436.1 3250 2016 15
+"Intelsat 37E" "NR (3/18)" "Communications" 35795 1436.1 6438 2017 15
+"Intelsat 5" "USA" "Communications" 35798 1436.09 2730 1997 15
+"Intelsat 805" "NR" "Communications" 35797 1436.08 3420 1998 14
+"Intelsat 9" "USA" "Communications" 35792 1436.14 3659 2000 15
+"Intelsat 901" "USA" "Communications" 35798 1436.12 4723 2001 13
+"Intelsat 902" "USA" "Communications" 35797 1436.1 4723 2001 13
+"Intelsat 903" "USA" "Communications" 35802 1436.16 4723 2002 13
+"Intelsat 904" "USA" "Communications" 35789 1436.07 4680 2002 13
+"Intelsat 905" "USA" "Communications" 35805 1436.12 4723 2002 13
+"Intelsat 906" "USA" "Communications" 35796 1436.07 4723 2002 13
+"Intelsat 907" "USA" "Communications" 35803 1436.1 4685 2003 13
+"Intelsat APR-2" "India" "Communications" 35804 1436.11 2550 1999 12
+"Intelsat New Dawn" "NR" "Communications" 35892 1439.15 3000 2011 15
+"Iridium  Next 142" "NR (5/18)" "Communications" 626 97 860 2018 15
+"Iridium Next 144" "NR (5/18)" "Communications" 625 97 860 2018 15
+"Iridium Next 157" "NR (5/18)" "Communications" 626 97 860 2018 15
+"Iridium 10" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 14A" "China" "Communications" 711 99 689 1999 8
+"Iridium 22" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 31" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 32" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 35" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 45" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 46" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 5" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 51" "China" "Communications" 779 100.4 689 1998 8
+"Iridium 54" "USA" "Communications" 779 100.4 689 1998 8
+"Iridium 55" "USA" "Communications" 779 100.4 689 1998 8
+"Iridium 58" "USA" "Communications" 779 100.4 689 1998 8
+"Iridium 59" "USA" "Communications" 780 100.4 689 1998 8
+"Iridium 60" "USA" "Communications" 779 100.4 689 1998 8
+"Iridium 61" "China" "Communications" 779 100.4 689 1998 8
+"Iridium 64" "USA" "Communications" 779 100.4 689 1998 8
+"Iridium 7" "USA" "Communications" 779 100.4 689 1997 8
+"Iridium 70" "USA" "Communications" 779 100.4 689 1998 8
+"Iridium 74" "USA" "Communications" 751 99.8 689 1998 8
+"Iridium 90" "USA" "Communications" 778 100.4 689 2002 8
+"Iridium 91" "USA" "Communications" 753 99.8 689 2002 8
+"Iridium 95" "USA" "Communications" 779 100.4 689 2002 8
+"Iridium 96" "USA" "Communications" 754 99.8 689 2002 8
+"Iridium 97" "USA" "Communications" 778 100.4 689 2002 8
+"Iridium Next 102" "USA" "Communications" 621 97 860 2017 15
+"Iridium Next 103" "USA" "Communications" 623 97 860 2017 15
+"Iridium Next 104" "USA" "Communications" 622 96.9 860 2017 15
+"Iridium Next 105" "USA" "Communications" 622 97 860 2017 15
+"Iridium Next 106" "USA" "Communications" 704 98.8 860 2017 15
+"Iridium Next 107" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 108" "USA" "Communications" 622 96.9 860 2017 15
+"Iridium Next 109" "USA" "Communications" 622 97 860 2017 15
+"Iridium Next 110" "NR (10/18)" "Communications" 718 97 860 2018 15
+"Iridium Next 111" "USA" "Communications" 622 96.9 860 2017 15
+"Iridium Next 112" "USA" "Communications" 622 96.9 860 2017 15
+"Iridium Next 113" "NR" "Communications" 624 97 860 2017 15
+"Iridium Next 114" "USA" "Communications" 622 96.9 860 2017 15
+"Iridium Next 115" "NR" "Communications" 623 97 860 2017 15
+"Iridium Next 116" "NR (5/18)" "Communications" 627 97 860 2017 15
+"Iridium Next 117" "NR" "Communications" 623 97 860 2017 15
+"Iridium Next 118" "NR" "Communications" 625 97 860 2017 15
+"Iridium Next 119" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 120" "NR" "Communications" 624 97 860 2017 15
+"Iridium Next 121" "NR" "Communications" 625 97 860 2017 15
+"Iridium Next 122" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 123" "NR" "Communications" 624 97 860 2017 15
+"Iridium Next 124" "NR" "Communications" 625 97 860 2017 15
+"Iridium Next 125" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 126" "NR" "Communications" 623 97 860 2017 15
+"Iridium Next 127" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 128" "NR" "Communications" 625 97 860 2017 15
+"Iridium Next 129" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 130" "NR (5/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 131" "NR (5/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 132" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 133" "NR (3/18)" "Communications" 635 97.2 860 2017 15
+"Iridium Next 134" "NR (5/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 135" "NR (5/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 136" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 138" "NR (5/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 139" "NR (3/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 141" "NR (5/18)" "Communications" 625 97 860 2017 15
+"Iridium Next 143" "NR (5/18)" "Communications" 626 97 860 2018 15
+"Iridium Next 145" "NR (5/18)" "Communications" 626 97 860 2018 15
+"Iridium Next 146" "NR (5/18)" "Communications" 627 97 860 2018 15
+"Iridium Next 147" "NR (10/18)" "Communications" 714 97 860 2018 15
+"Iriidium Next 148" "NR (5/18)" "Communications" 625 97 860 2018 15
+"Iridium Next 149" "NR (5/18)" "Communications" 626 97 860 2018 15
+"Iridium Next 150" "NR (5/18)" "Communications" 626 97 860 2018 15
+"Iridium Next 151" "NR (5/18)" "Communications" 625 97 860 2017 15
+"Iridium Next 152" "NR (10/18)" "Communications" 710 97 860 2018 15
+"Iridium Next 153" "NR (5/18)" "Communications" 625 97 860 2017 15
+"Iridium Next 154" "NR (10/18)" "Communications" 622 97 860 2018 15
+"Iridium Next 155" "NR (10/18)" "Communications" 622 97 860 2018 15
+"Iridium Next 156" "NR (10/18)" "Communications" 623 97 860 2018 15
+"Iridium Next 158" "NR (10/18)" "Communications" 623 97 860 2018 15
+"Iridum Next 159" "NR (10/18)" "Communications" 622 97 860 2018 15
+"Iridium Next 160" "NR (10/18)" "Communications" 624 97 860 2018 15
+"Iridium Next 161" "NR (10/18)" "Communications" 714 97 860 2018 15
+"Iridium Next 162" "NR (10/18)" "Communications" 715 97 860 2018 15
+"Iridium Next 163" "NR (10/18)" "Communications" 623 97 860 2018 15
+"Iridium Next 164" "NR (10/18)" "Communications" 623 97 860 2018 15
+"Iridium Next 165" "NR (10/18)" "Communications" 623 97 860 2018 15
+"Iridium Next 166" "NR (10/18)" "Communications" 623 97 860 2018 15
+"Iridium Next 137" "NR (5/18)" "Communications" 626 97 860 2017 15
+"Iridium Next 140" "NR (5/18)" "Communications" 626 97 860 2018 15
+"IRIS" "USA" "Space Science" 664 97.5 236 2013 2
+"IRNSS-1A" "India" "Navigation/Regional Positioning" 35872 1436 1425 2013 12
+"IRNSS-1B" "India" "Navigation/Regional Positioning" 35880 1436.14 1432 2014 12
+"IRNSS-1C" "NR" "Navigation/Regional Positioning" 35871 1435.8 1425 2014 12
+"IRNSS-1D" "NR" "Navigation/Regional Positioning" 35834 1435.06 1425 2015 12
+"IRNSS-1E" "NR" "Navigation/Regional Positioning" 35874 1436.01 1425 2016 12
+"IRNSS-1F" "India" "Navigation/Regional Positioning" 35874 1436.13 1425 2016 12
+"IRNSS-1G" "India" "Navigation/Regional Positioning" 35797 1436.05 1425 2016 12
+"IRNSS-1I" "NR (5/18)" "Navigation/Regional Positioning" 35872 1436.1 1425 2018 10
+"IRS-P6" "India" "Earth Observation" 823 101.3 1360 2003 5
+"ITU-pSAT1" "NR" "Technology Development" 721 99.1 1 2009 1
+"Jason 2" "France" "Earth Observation" 1344 112.4 553 2008 5
+"Jason 3" "USA" "Earth Observation" 1324 111.8 553 2016 5
+"JCSat 10" "Japan" "Communications" 35801 1436.1 4400 2006 15
+"JCSat 110" "Japan" "Communications" 35789 1436.11 3531 2000 15
+"JCSat 13" "Japan" "Communications" 35791 1436.03 4500 2012 15
+"JCSat 14" "Japan" "Communications" 35924 1441.5 4500 2016 15
+"JCSat 15" "Japan" "Communications" 35774 1434.1 3400 2016 15
+"JCSat 16" "Japan" "Communications" 35801 1436.01 4500 2016 15
+"JCSat 2A" "Japan" "Communications" 35794 1436.1 2500 2002 11
+"JCSat 4A" "Japan" "Communications" 37768 1435.52 2900 1999 14.5
+"JCSat 9" "Japan" "Communications" 35797 1436.1 4400 2006 12
+"JCSat RA" "Japan" "Communications" 35794 1436.12 4000 2009 15
+"Jilin 1-4" "NR (3/18)" "Earth Observation" 545 95.4 95 2017 3
+"Jilin 1-5" "NR (3/18)" "Earth Observation" 544 95.4 95 2017 3
+"Jilin 1-6" "NR (3/18)" "Earth Observation" 544 95.4 95 2017 3
+"Jilin 1-7" "NR (5/18)" "Earth Observation" 546 95.3 95 2018 3
+"Jilin 1-8" "NR (5/18)" "Earth Observation" 546 95.3 95 2018 3
+"Jugnu" "India" "Earth Observation" 866 102 3 2011 1
+"Kalpana-1" "India" "Earth Observation" 35789 1436.08 1060 2002 7
+"Canopus-B" "Russia" "Earth Observation" 505 94.7 400 2012 5
+"KazEOSat-1" "NR" "Earth Observation" 754 99.87 830 2014 7.25
+"KazEOSat-2" "NR" "Earth Observation" 636 97.19 185 2014 7
+"KazSat-2" "Kazakhstan" "Communications" 35788 1436.13 1300 2011 12
+"USA 186" "USA" "Earth Observation" 1050 97 18000 2005 5
+"USA 224" "USA" "Earth Observation" 1000 97 18000 2011 5
+"USA 245" "USA" "Earth Observation" 997 97.25 18000 2013 5
+"KKS-1" "Japan" "Technology Development" 667 97.92 3 2009 1
+"Kompsat-2" "South Korea" "Earth Observation/Technology Development" 698 98.5 800 2006 3
+"Kompsat-3" "South Korea" "Earth Observation" 696 98.5 980 2012 4
+"Kompsat-3A" "South Korea" "Earth Observation" 540 95.25 980 2015 4
+"Kompsat-5" "South Korea" "Earth Observation" 552 95.5 1400 2013 5
+"Koreasat 5A" "NR (3/18)" "Communications" 35799 1436 3700 2017 15
+"Koreasat 6" "South Korea" "Communications" 35794 1436.12 2850 2010 15
+"Koreasat 7" "South Korea" "Communications" 35791 1436.08 3680 2017 15
+"USA 133" "USA" "Earth Observation" 675 98.2 14500 1997 5
+"USA 152" "USA" "Earth Observation" 676 97.21 14500 2000 9
+"USA 182" "USA" "Earth Observation" 716 99.08 14500 2005 9
+"Landsat 7" "USA" "Earth Observation" 703 98.8 2744 1999 15
+"Landsat 8" "USA" "Earth Observation" 705 98.8 2780 2013 5
+"LaoSat-1" "NR" "Communications" 35800 1436.1 3800 2015 15
+"LINK" "NR (10/17)" "Space Science" 404 92.4 3 2017 0.25
+"Luch 5V" "Russia" "Communications" 35802 1435.99 1148 2014 10
+"Maroc Tubsat" "NR" "Technology Development" 1014 105.1 47 2001 3
+"Measat 3" "Malaysia" "Communications" 35794 1436.1 4900 2006 15
+"Measat 3A" "Malaysia" "Communications" 35788 1434.6 2417 2009 15
+"Measat 3B" "Malaysia" "Communications" 35802 1436.11 5800 2014 15
+"Megha-Tropiques" "India" "Earth Observation" 868 102.2 1000 2011 5
+"Merah Putih" "NR (11/18)" "Communications" 35797 1436.1 5800 2018 16
+"Meridian-6" "Russia" "Communications" 38860 718.04 2500 2012 7
+"Meridian-7" "Russia" "Communications" 39398 717.88 2500 2014 7
+"Meteor-M N-2" "Russia" "Earth Observation" 828 101.3 2778 2014 5
+"Meteosat 10" "EUMETSAT" "Earth Observation" 35791 1436.15 2000 2012 7
+"Meteosat 11" "EUMETSAT" "Earth Observation" 35795 1436.1 2000 2015 12
+"Meteosat 8" "EUMETSAT/ESA" "Earth Observation" 35793 1436.1 2000 2002 12
+"Meteosat 9" "EUMETSAT" "Earth Observation" 35795 1436 2000 2005 12
+"MetOp-A" "EUMETSAT" "Earth Observation" 821 101.3 4193 2006 5
+"MetOp-B" "EUMETSAT" "Earth Observation" 822 101.3 4085 2012 5
+"MetOp-C" "EUMETSAT" "Earth Observation" 829 101.2 4084 2018 5
+"Mexsat-3" "Mexico" "Communications" 35791 1436.16 2900 2012 15
+"Mexsat-2" "Mexico" "Communications" 35805 1436 5325 2015 15
+"MICROSCOPE" "France" "Space Science" 715 99 300 2016 1
+"MVL-300" "Russia" "Space Science" 487 94 645 2016 3
+"USA 99" "USA" "Communications" 35819 1436.13 4536 1994 10
+"USA 115" "USA" "Communications" 35809 1436.13 4536 1995 10
+"USA 157" "USA" "Communications" 35768 1435.04 4536 2001 12
+"USA 164" "USA" "Communications" 35820 1436.12 4536 2002 12
+"USA 169" "USA" "Communications" 35806 1436.13 4536 2003 12
+"MiRaTA" "NR (3/18)" "Earth Observation" 818 97.4 4 2017 0.25
+"MMS-1" "NR" "Space Science" 70009 1433 1360 2015 3
+"MMS-2" "NR" "Space Science" 70117 1433 1360 2015 3
+"MMS-3" "NR" "Space Science" 70045 1433 1360 2015 3
+"MMS-4" "NR" "Space Science" 70157 1433 1360 2015 3
+"Microvariability & Oscillations of Stars (MOST)" "Canada" "Space Science" 832 101.4 53 2003 1
+"MSAT 1" "Canada" "Communications" 35809 1436.09 2850 1996 12
+"MSAT 2" "USA" "Communications" 35796 1436.09 2850 1995 10
+"Multispectral Thermal Imager (MTI)" "USA" "Technology Development" 478 94.9 587 2000 3
+"MTSAT-2" "Japan" "Earth Observation" 35797 1436.1 2900 2006 5
+"MUOS-1" "USA" "Communications" 36006 1436.1 6804 2012 12
+"MUOS-2" "USA" "Communications" 36023 1436.1 6804 2013 12
+"USA 213" "USA" "Navigation/Global Positioning" 20224 718.94 1630 2010 12
+"USA 262" "NR" "Navigation/Global Positioning" 20459 728.96 1630 2015 12
+"USA 265" "NR" "Navigation/Global Positioning" 20486 97.7 1630 2015 12
+"USA 266" "USA" "Navigation/Global Positioning" 20188 717.9 1630 2016 12
+"USA 232" "USA" "Navigation/Global Positioning" 20464 729.18 1630 2011 12
+"USA 239" "USA" "Navigation/Global Positioning" 20191 718 1630 2012 10
+"USA 242" "USA" "Navigation/Global Positioning" 20247 719.32 1630 2013 10
+"USA 248" "USA" "Navigation/Global Positioning" 20469 729.39 1630 2014 10
+"USA 251" "USA" "Navigation/Global Positioning" 20188 717.92 1630 2014 10
+"USA 256" "USA" "Navigation/Global Positioning" 20476 729 1630 2014 10
+"USA 258" "USA" "Navigation/Global Positioning" 20211 718.02 1630 2014 10
+"USA 260" "USA" "Navigation/Global Positioning" 20469 729.14 1630 2015 12
+"USA 175" "USA" "Navigation/Global Positioning" 20327 716.47 2217 2003 10
+"USA 177" "USA" "Navigation/Global Positioning" 20276 717.98 2217 2004 10
+"USA 178" "USA" "Navigation/Global Positioning" 20292 717.96 2217 2004 10
+"USA 180" "USA" "Navigation/Global Positioning" 20426 718 2217 2004 10
+"USA 132" "USA" "Navigation/Global Positioning" 20247 718.09 2217 1997 10
+"USA 145" "USA" "Navigation/Global Positioning" 20268 717.97 2217 1999 10
+"USA 150" "USA" "Navigation/Global Positioning" 20234 718.03 2217 2000 10
+"USA 151" "USA" "Navigation/Global Positioning" 20427 722.98 2217 2000 10
+"USA 154" "USA" "Navigation/Global Positioning" 20498 724.28 2217 2000 10
+"USA 156" "USA" "Navigation/Global Positioning" 20266 718.09 2217 2001 10
+"USA 166" "USA" "Navigation/Global Positioning" 20344 720.71 2217 2003 10
+"USA 168" "USA" "Navigation/Global Positioning" 20433 720.65 2217 2003 10
+"USA 183" "USA" "Navigation/Global Positioning" 20221 717.95 2217 2005 10
+"USA 190" "USA" "Navigation/Global Positioning" 20342 717.93 2060 2006 10
+"USA 192" "USA" "Navigation/Global Positioning" 20366 722.19 2060 2006 10
+"USA 196" "USA" "Navigation/Global Positioning" 20213 717.93 2217 2007 10
+"USA 199" "USA" "Navigation/Global Positioning" 20311 719.92 2060 2007 10
+"USA 201" "USA" "Navigation/Global Positioning" 20152 716.4 2217 2008 10
+"USA 206" "USA" "Navigation/Global Positioning" 20209 718.07 2059 2009 10
+"NigComSat-1R" "China" "Communications" 35795 1436.1 5150 2011 15
+"NigeriaSat-2" "Nigeria" "Earth Observation" 705 98.7 300 2011 7
+"Nilesat 102" "NR" "Communications" 35808 1436.08 1825 2000 15
+"Nilesat 201" "NR" "Communications" 35813 1436.23 3200 2010 15
+"Nimiq 2" "Canada" "Communications" 35793 1436.08 3600 2002 12
+"Nimiq 4" "Canada" "Communications" 35794 1436.1 4850 2008 15
+"Nimiq 5" "NR" "Communications" 35700 1436.1 4745 2009 15
+"Nimiq 6" "NR" "Communications" 35809 1436.09 4745 2012 15
+"NIUSat" "India" "Technology Development" 517 94.5 15 2017 2
+"NOAA-15" "USA" "Earth Observation" 816 101 2223 1998 3
+"NOAA-18" "USA" "Earth Observation" 864 102 2223 2005 3
+"NOAA-19" "USA" "Earth Observation" 864 102 1420 2009 3
+"NOAA-20" "NR (3/18)" "Earth Observation" 819 101.2 2294 2017 7
+"NovaSAR-1" "NR (11/18)" "Earth Observation" 600 96 430 2018 7
+"NSS-10" "USA" "Communications" 35795 1436.1 5396 2005 16
+"NSS-11" "USA" "Communications" 35798 1436.15 3582 2000 15
+"NSS-5" "NR" "Communications" 35796 1436.08 3412 1997 14
+"NSS-7" "NR" "Communications" 35798 1436.12 4500 2002 14
+"NSS-806" "NR" "Communications" 35794 1436.11 3720 1998 12
+"NSS-9" "United Kingdom" "Communications" 35792 1436.17 2238 2009 15
+"N-Star C" "Japan" "Communications" 35799 1436.08 1625 2002 15
+"NuSTAR" "USA" "Space Science" 632 97.2 360 2012 2
+"USA 219" "USA" "Space Science" 654 97.48 6 2010 0.5
+"OCO 2" "USA" "Earth Observation" 704 98.83 454 2014 2
+"Odin" "Sweden" "Earth Observation" 573 96.1 250 2001 2
+"Ofeq 10" "NR" "Earth Observation" 601 94.47 300 2014 5
+"Ofeq 11" "NR" "Earth Observation" 608 94.4 300 2016 5
+"Ofeq 5" "NR" "Earth Observation" 764 95.97 300 2002 4
+"Ofeq 7" "NR" "Earth Observation" 576 93.75 300 2007 5
+"Ofeq 9" "NR" "Earth Observation" 589 93.91 300 2010 5
+"Optus 10" "Australia" "Communications" 35802 1436.11 3270 2014 15
+"Optus and Defence C1" "Australia" "Communications" 35799 1436.08 4800 2003 15
+"Optus D1" "Australia" "Communications" 35797 1436.08 2300 2006 15
+"Optus D2" "Australia" "Communications" 35799 1436.1 2400 2007 15
+"Optus D3" "Australia" "Communications" 35795 1436.04 2501 2009 15
+"ORBCOMM FM-10" "USA" "Communications" 776 100.3 45 1997 5
+"ORBCOMM FM-11" "USA" "Communications" 777 100.3 45 1997 5
+"ORBCOMM FM-12" "USA" "Communications" 776 100.3 45 1997 5
+"ORBCOMM FM-13" "USA" "Communications" 795 100.7 45 1998 5
+"ORBCOMM FM-14" "USA" "Communications" 794 100.7 45 1998 5
+"ORBCOMM FM-15" "USA" "Communications" 795 100.7 45 1998 5
+"ORBCOMM FM-16" "USA" "Communications" 794 100.7 45 1998 5
+"ORBCOMM FM-18" "USA" "Communications" 796 100.7 45 1998 5
+"ORBCOMM FM-19" "USA" "Communications" 795 100.7 45 1998 5
+"ORBCOMM FM-20" "USA" "Communications" 792 100.7 45 1998 5
+"ORBCOMM FM-21" "USA" "Communications" 822 101.21 45 1998 5
+"ORBCOMM FM-23" "USA" "Communications" 794 100.7 45 1998 5
+"ORBCOMM FM-27" "USA" "Communications" 792 100.7 45 1998 5
+"ORBCOMM FM-30" "USA" "Communications" 796 100.7 45 1999 5
+"ORBCOMM FM-31" "USA" "Communications" 795 100.7 45 1999 5
+"ORBCOMM FM-32" "USA" "Communications" 796 100.7 45 1999 5
+"ORBCOMM FM-34" "USA" "Communications" 796 100.7 45 1999 5
+"ORBCOMM FM-35" "USA" "Communications" 795 100.7 45 1999 5
+"ORBCOMM FM-36" "USA" "Communications" 795 100.7 45 1999 5
+"ORBCOMM FM-4" "USA" "Communications" 838 100.9 45 1998 5
+"ORBCOMM FM-5" "USA" "Communications" 774 100.3 45 1997 5
+"ORBCOMM FM-6" "USA" "Communications" 774 100.3 45 1997 5
+"ORBCOMM FM-7" "USA" "Communications" 774 100.3 45 1997 5
+"ORBCOMM FM-8" "USA" "Communications" 778 100.3 45 1997 5
+"ORBCOMM FM-9" "USA" "Communications" 777 100.3 45 1997 5
+"ORBCOMM FM-103" "USA" "Communications" 741 98.36 172 2014 5
+"ORBCOMM FM-107" "USA" "Communications" 739 98.34 172 2014 5
+"ORBCOMM FM-108" "NR (12/16)" "Communications" 657 97.42 172 2015 5
+"ORBCOMM FM-109" "USA" "Communications" 739 98.34 172 2014 5
+"ORBCOMM FM-110" "NR (12/16)" "Communications" 658 97.44 172 2015 5
+"ORBCOMM FM-112" "NR (12/16)" "Communications" 657 97.43 172 2015 5
+"ORBCOMM FM-113" "NR (12/16)" "Communications" 656 97.41 172 2015 5
+"ORBCOMM FM-114" "NR (12/16)" "Communications" 658 97.43 172 2015 5
+"ORBCOMM FM-115" "NR (12/16)" "Communications" 655 97.39 172 2015 5
+"ORBCOMM FM-116" "NR (12/16)" "Communications" 654 97.4 172 2015 5
+"ORBCOMM FM-117" "NR (12/16)" "Communications" 656 97.42 172 2015 5
+"ORBCOMM FM-118" "NR (12/16)" "Communications" 658 97.44 172 2015 5
+"ORS-5" "NR (10/17)" "Technology Demonstration" 604 96.7 140 2017 3
+"Paksat-1R" "Pakistan" "Communications" 35800 1436.1 5120 2011 15
+"PakTES-1a" "NR (10/18)" "Earth Observation" 628 96.9 285 2018 3
+"Palapa D1" "China" "Communications" 35792 1436.09 4100 2009 15
+"Cosmos 2407" "Russia" "Communications" 1008 104.7 825 2004 3
+"Cosmos 2414" "Russia" "Communications" 968 103.8 825 2005 3
+"Cosmos 2463" "Russia" "Communications" 1022 105 820 2010 3
+"Prototype Communications SATellite (PCSat)" "USA" "Communications/Technology Development" 796 100.7 10 2001 5
+"PEASSS" "NR (9/17)" "Technology Development" 504 94.6 10 2017 1
+"Cosmos 2486" "Russia" "Earth Observation" 733 99.2 7000 2013 5
+"Cosmos 2506" "Russia" "Earth Observation" 725 99 7000 2015 5
+"PeruSat-1" "Peru" "Earth Observation" 705 98.7 430 2016 10
+"Pléiades HR1A " "France" "Earth Observation" 699 98.7 1000 2011 5
+"Pléiades HR1B " "France" "Earth Observation" 691 98.45 970 2012 5
+"Proba 1" "ESA" "Technology Demonstration" 676 96.98 100 2001 2
+"Proba 2" "ESA" "Technology Demonstration" 728 99.2 130 2009 2
+"Proba 5" "ESA" "Earth Observation" 820 101.21 140 2013 2.5
+"Prometheus 2.1" "USA" "Technology Development" 586 96.27 1 2016 4
+"Prometheus 2.2" "USA" "Technology Development" 585 96.28 1 2016 4
+"Prometheus 2.3" "NR (10/17)" "Technology Development" 601 94.5 1 2017 2
+"Prometheus 2.4" "NR (10/17)" "Technology Development" 603 94.5 1 2017 2
+"PRSS-1" "NR (10/18)" "Earth Observation" 624 96.8 1200 2018 7
+"QSS" "China" "Space Science" 509 95.1 700 2016 2
+"QueztSat-1" "United Kingdom" "Communications" 35798 1436.09 5514 2011 15
+"QZS-1" "Japan" "Navigation/Regional Positioning" 38950 1436 4000 2010 15
+"QZS-3" "NR (10/17)" "Navigation/Regional Positioning" 35802 1436.1 4000 2017 15
+"QZS-4" "NR (3/18)" "Navigation/Regional Positioning" 38943 1435.9 4000 2017 15
+"Radarsat-2" "Canada" "Earth Observation" 793 100.7 2924 2007 7
+"Cosmos 2450" "Russia" "Communications" 35949 1435.79 2400 2009 5
+"Raduga 1-M2" "Russia" "Communications" 35788 1436.06 2500 2010 5
+"Raduga 1-M3" "Russia" "Communications" 35797 1436.13 2400 2013 5
+"RapidEye-1" "Germany" "Earth Observation" 646 97.3 175 2008 7
+"RapidEye-2" "Germany" "Earth Observation" 638 97.3 175 2008 7
+"RapidEye-3" "Germany" "Earth Observation" 637 97.3 175 2008 7
+"RapidEye-4" "Germany" "Earth Observation" 638 97.3 175 2008 7
+"RapidEye-5" "Germany" "Earth Observation" 642 97.3 175 2008 7
+"RASAT" "Turkey" "Earth Observation" 697 98.4 113 2011 3
+"Rascom-QAF 1R" "NR" "Communications" 35787 1436.1 3050 2010 15
+"RAVAN" "NR" "Technology Development" 583 96.2 5 2016 0.5
+"Resourcesat 2" "India" "Earth Observation" 823 101.3 1206 2011 5
+"Resourcesat-2A" "NR (1/17)" "Earth Observation" 831 101.3 1235 2016 5
+"Resurs-P1" "Russia" "Earth Observation" 472 93.9 5900 2013 3
+"Resurs-P2" "Russia" "Earth Observation/Communications/Space Science" 472 93.93 5900 2014 3
+"Resurs-P3" "Russia" "Earth Observation" 472 94.01 5900 2016 5
+"Cosmos 2437" "Russia" "Communications" 1511 115.9 280 2008 5
+"Cosmos 2438" "Russia" "Communications" 1509 115.8 280 2008 5
+"Cosmos 2439" "Russia" "Communications" 1510 115.8 280 2008 5
+"Cosmos 2451" "Russia" "Communications" 1509 116 280 2009 5
+"Cosmos 2453" "Russia" "Communications" 1506 116 280 2009 5
+"Cosmos 2467" "Russia" "Communications" 1496 115.9 225 2010 3
+"Cosmos 2468" "Russia" "Communications" 1505 115.9 225 2010 3
+"Cosmos 2481" "Russia" "Communications" 1512 115.9 280 2012 5
+"Cosmos 2482" "Russia" "Communications" 1516 115.86 250 2013 5
+"Cosmos 2483" "Russia" "Communications" 1516 115.86 250 2013 5
+"Cosmos 2484" "Russia" "Communications" 1514 115.86 250 2013 5
+"Cosmos 2488" "Russia" "Communications" 1509 115.9 280 2013 5
+"Cosmos 2489" "Russia" "Communications" 1507 115.8 280 2013 5
+"Cosmos 2490" "Russia" "Communications" 1511 115.8 280 2013 5
+"Cosmos 2496" "Russia" "Communications" 1511 115.88 280 2014 5
+"Cosmos 2497" "Russia" "Communications" 1510 115.85 280 2014 5
+"Cosmos 2498" "Russia" "Communications" 1509 115.82 280 2014 5
+"Cosmos 2507" "Russia" "Communications" 1506 116.01 280 2015 5
+"Cosmos 2508" "Russia" "Communications" 1504 115.99 280 2015 5
+"Cosmos 2509" "Russia" "Communications" 1508 116.04 280 2015 5
+"Cosmos 2530" "NR (11/18)" "Communications" 1508 116.04 280 2018 5
+"Cosmos 2531" "NR (11/18)" "Communications" 1508 116.04 280 2018 5
+"Cosmos 2532" "NR (11/18)" "Communications" 1508 116.04 280 2018 5
+"Rumba" "ESA" "Space Science" 120715 3431.1 1200 2000 4
+"Salsa" "ESA" "Space Science" 110256 3418 1200 2000 4
+"Samba" "ESA" "Space Science" 110791 3430.28 1200 2000 4
+"SAOCOM-1A" "NR (11/18)" "Earth Observation" 633 97.2 1650 2018 5
+"Sapphire" "Canada" "Space Observation" 787 100.4 148 2013 5
+"SARAL" "NR" "Earth Observation" 785 100.53 407 2013 5
+"SAR-Lupe 1" "Germany" "Earth Observation" 505 94.3 770 2006 10
+"SAR-Lupe 2" "Germany" "Earth Observation" 503 94.34 770 2007 10
+"SAR-Lupe 3" "Germany" "Earth Observation" 496 94.3 770 2007 10
+"SAR-Lupe 4" "Germany" "Earth Observation" 486 94.4 770 2008 10
+"SAR-Lupe 5" "Germany" "Earth Observation" 502 94.37 770 2008 10
+"USA 230" "USA" "Earth Observation" 35795 1436.11 4500 2011 12
+"USA 241" "USA" "Earth Observation" 35790 1436.11 4500 2013 12
+"USA 273" "USA" "Earth Observation" 35785 1436.11 4500 2017 12
+"USA 282" "NR (5/18)" "Earth Observation" 35815 1436.1 4500 2018 12
+"ScatSat-1" "NR (12/16)" "Earth Observation" 731 99.3 371 2016 5
+"SCD-1" "Brazil" "Earth Observation" 776 99.7 110 1993 3
+"SCD-2" "NR" "Earth Observation" 760 99.8 110 1998 3
+"SDO" "USA" "Space Science" 35791 1436.03 3100 2010 5
+"SDS-4" "Japan" "Technology Development" 673 98.1 50 2012 2
+"Sentinel 3B" "NR  (5/18)" "Earth Observation" 815 101.1 2300 2018 7
+"Sentinel 1A" "ESA" "Earth Observation" 693 98.61 2300 2014 7
+"Sentinel 1B" "NR (12/16)" "Earth Observation" 697 98.7 2300 2016 7
+"Sentinel 2A" "NR" "Earth Observation" 788 100.62 1130 2015 7
+"Sentinel 2B" "NR (9/17)" "Earth Observation" 779 100.4 1130 2017 7
+"Sentinel 3A" "NR (12/16)" "Earth Observation" 804 100.9 2300 2016 7
+"Sentinel 5P" "NR (3/18)" "Earth Observation" 819 101.2 820 2017 7
+"SES-10" "NR (9/17)" "Communications" 35799 1436.1 5271 2017 15
+"SES-11/EchoStar 105" "NR (3/18)" "Communications" 35801 1436 5200 2017 15
+"SES-12" "NR (10/18)" "Communications" 35785 1436 5300 2018 15
+"SES-14" "NR (5/18)" "Communications" 35785 1436 4423 2018 15
+"SES-2" "USA" "Communications" 35798 1436.19 3200 2011 18
+"SES-3" "NR" "Communications" 35852 1439.41 3112 2011 15
+"SES-5" "United Kingdom" "Communications" 35791 1436.12 6007 2012 15
+"SES-6" "NR" "Communications" 35816 1436.09 6140 2013 15
+"SES-7" "NR" "Communications" 35790 1436.1 4007 2009 15
+"SES-8" "NR" "Communications" 35795 1436.07 3138 2013 15
+"SES-9" "NR (12/16)" "Communications" 35791 1436.2 5271 2016 15
+"SGDC" "NR (9/17)" "Communications" 35798 1436.11 5735 2017 18
+"SGSat" "NR (10/17)" "Technology Development" 404 92.6 2 2017 0.25
+"SHARC" "NR (10/17)" "Technology Demonstration" 406 92.6 10 2017 0.5
+"Sicral 1A" "Italy" "Communications" 35802 1436.06 2596 2001 12
+"Sicral 1B" "Italy" "Communications" 35802 1436.52 3038 2009 12
+"Sicral 2/Syracuse 3C" "NR" "Communications" 35800 1436 4400 2015 15
+"Sinah-1" "NR" "Communications" 703 98.6 170 2005 3
+"Sinosat-6" "China" "Communications" 35796 1436.1 5000 2010 15
+"Sirius-1 (SD Radio 1)" "USA" "Communications" 47100 1418.5 3727 2000 15
+"Sirius 2 (SD Radio 2)" "USA" "Communications" 47048 1148.43 3792 2000 15
+"Sirius 3 (SD Radio 3)" "USA" "Communications" 47086 994.83 3727 2000 15
+"Sirius 4" "Sweden" "Communications" 35795 1436.1 4400 2007 15
+"Sirius FM-5" "USA" "Communications" 35798 1436 5800 2009 15
+"Sirius FM-6" "USA" "Communications" 35791 1436.16 6020 2013 15
+"Sirius XM-5" "USA" "Communications" 35795 1436.12 5983 2010 15
+"Sky Mexico-1" "NR" "Communications" 35800 1436 3180 2015 18
+"Sky Muster 1" "NR" "Communications" 35777 1434.76 6440 2015 15
+"Sky Muster 2" "NR (12/16)" "Communications" 35798 1436.1 6405 2016 15
+"SkyBrasil-1 (Intelsat 32E)" "NR (9/17)" "Communications" 35787 1436 6000 2017 15
+"Skynet 4C" "United Kingdom" "Communications" 35797 1436.07 1474 1990 7
+"Skynet 4E" "United Kingdom" "Communications" 35797 1436.06 1510 1999 7
+"Skynet 4F" "United Kingdom" "Communications" 35801 1436.15 1510 2001 7
+"Skynet 5A" "United Kingdom" "Communications" 35802 1436.1 4700 2007 15
+"Skynet 5B" "United Kingdom" "Communications" 35803 1436.1 4635 2007 15
+"Skynet 5D" "United Kingdom" "Communications" 35793 1436.24 4638 2012 15
+"SkyTerra 1" "USA" "Communications" 35791 1436.09 5360 2010 15
+"SLATS" "NR (5/18)" "Technology Development" 627 95.5 800 2017 2
+"SMOS" "ESA" "Earth Observation" 760 100 658 2009 3
+"S-Net-1" "NR (5/18)" "Technology Development" 588 96.2 9 2018 1
+"S-Net-2" "NR (5/18)" "Technology Development" 588 96.2 9 2018 1
+"S-Net-3" "NR (5/18)" "Technology Development" 588 96.2 9 2018 1
+"S-Net-4" "NR (5/18)" "Technology Development" 588 96.2 9 2018 1
+"SOlar Radiation and Climate Experiment (SORCE)" "USA" "Space Science" 633 97 315 2003 6
+"South Asia Satellite" "NR (9/17)" "Communications" 35798 1436.11 2230 2017 12
+"Spacecube" "NR (10/17)" "Technology Development" 403 92.6 4 2017 0.5
+"Spaceway 3" "USA" "Communications" 35787 1436.1 6100 2007 12
+"Spaceway F1" "USA" "Communications" 35787 1436.1 5993 2005 12.5
+"Spaceway F2" "USA" "Communications" 35787 1436.1 5993 2005 12.5
+"Spektr-R/RadioAstron" "Russia" "Space Science" 330000 11520 3660 2011 5
+"Spot 6" "France" "Earth Observation" 699 98.73 720 2012 10
+"Spot 7" "France" "Earth Observation" 660 97.77 714 2014 10
+"SRMSat" "India" "Technology Development" 868 102.1 11 2011 1
+"ST-2" "NR" "Communications" 35791 1436.12 5090 2011 15
+"Star 1 C1" "Brazil" "Communications" 35778 1436 4100 2007 15
+"Star 1 C3" "Brazil" "Communications" 35848 1437.78 3225 2012 15
+"Star 1 C4" "Brazil" "Communications" 35801 1436.1 5634 2015 15
+"Star 1 D1" "NR (1/17)" "Communications" 35777 1434.7 6433 2016 15
+"StarLink Demo 1" "NR (5/18)" "Communications" 516 94.7 20 2018 2
+"StarLink Demo 2" "NR (5/18)" "Communications" 515 94.7 20 2018 2
+"USA 217" "USA" "Technology Development" 650 97.73 180 2010 1
+"STPSat-3" "USA" "Technology Development" 507 94.66 137 2013 3
+"Cosmos 2385" "Russia" "Communications" 1425 114.2 225 2001 3
+"Cosmos 2386" "Russia" "Communications" 1419 114.2 225 2001 3
+"Cosmos 2390" "Russia" "Communications" 1506 115.7 225 2002 3
+"Cosmos 2391" "Russia" "Communications" 1506 115.7 225 2002 3
+"Cosmos 2400" "Russia" "Communications" 1503 115.7 225 2003 3
+"Cosmos 2401" "Russia" "Communications" 1502 115.6 225 2003 3
+"Cosmos 2408" "Russia" "Communications" 1495 115.5 225 2004 3
+"Cosmos 2409" "Russia" "Communications" 1495 115.6 225 2004 3
+"STSat-2C" "South Korea" "Technology Development" 1482 102.77 93 2013 2
+"USA 208" "USA" "Technology Development" 1352 112.68 2240 2009 4
+"USA 209" "USA" "Technology Development" 1351 112.58 2240 2009 4
+"Superbird 7" "Japan" "Communications" 35794 1436.1 5000 2008 15
+"Superbird-B2" "Japan" "Communications" 35793 1436.09 4051 2000 10
+"Superview 1-01" "NR (1/17)" "Earth Observation" 525 93.3 560 2016 8
+"Superview 1-02" "NR (1/17)" "Earth Observation" 548 93.4 560 2016 8
+"Superview 1-03" "NR (5/18)" "Earth Observation" 535 95.1 560 2018 8
+"Superview 1-04" "NR (5/18)" "Earth Observation" 534 95 560 2018 8
+"SWARM-A" "ESA" "Earth Observation" 476 93.9 468 2013 4
+"SWARM-B" "ESA" "Earth Observation" 476 93.9 468 2013 4
+"SWARM-C" "ESA" "Earth Observation" 496 94 468 2013 4
+"Swift" "USA" "Space Science" 590 96.3 1463 2004 7
+"SwissCube" "NR" "Technology Development" 720 99.1 1 2009 1
+"Syracuse 3A" "France" "Communications" 35792 1436.06 3725 2005 12
+"Syracuse 3B" "France" "Communications" 35801 1436.09 3750 2006 12
+"TanDEM-X" "Germany" "Earth Observation" 510 94.8 1350 2010 5
+"Tango" "ESA" "Space Science" 120961 3442 1200 2000 4
+"TanSat" "NR (1/17)" "Earth Observation" 718 98.86 620 2016 3
+"TDRS-10" "USA" "Communications" 35802 1436.04 3180 2002 11
+"TDRS-11" "USA" "Communications" 35844 1436.18 3454 2013 15
+"TDRS-12" "USA" "Communications" 35785 1435.88 3454 2014 15
+"TDRS-13" "NR (10/17)" "Communications" 35813 1436 3452 2017 15
+"TDRS-3" "USA" "Communications" 35878 1436.06 3180 1988 10
+"TDRS-5" "USA" "Communications" 35796 1436.99 3180 1991 10
+"TDRS-6" "USA" "Communications" 35787 1435.7 3180 1993 10
+"TDRS-7" "USA" "Communications" 35803 1436.04 3180 1995 10
+"TDRS-8" "USA" "Communications" 35808 1436.2 3180 2000 11
+"TDRS-9" "USA" "Communications" 35809 1436.11 3180 2002 11
+"Technosat" "NR (10/17)" "Technology Demonstration" 605 96.6 18 2017 2
+"TeLEOS 1" "NR" "Earth Observation" 550 95.5 400 2015 5
+"Telkom 2" "Indonesia" "Communications" 35793 1436.1 1930 2005 15
+"Telkom 3S" "NR (9/17)" "Communications" 35795 1436.1 3550 2017 18
+"Telstar 11N" "NR" "Communications" 35801 1436.13 4010 2009 15
+"Telstar 12" "USA" "Communications" 35799 1436.09 3878 1999 13
+"Telstar 12V" "NR" "Communications" 35727 1436.1 4900 2015 15
+"Telstar 14R" "Brazil" "Communications" 35791 1436.1 4970 2011 15
+"Telstar 18" "NR" "Communications" 35795 1436.1 4640 2004 13
+"Telstar 18 Vantage" "NR (11/18)" "Communications" 35795 1436.09 7060 2018 15
+"Telstar 19 Vantage" "NR (10/18)" "Communications" 35792 1436.1 7075 2018 15
+"TEMPEST-D" "NR (11/18)" "Space Science" 407 92.6 10 2018 1
+"Ten-Koh" "NR (11/18)" "Space Science" 613 96.7 23 2018 1
+"TerraSAR X 1" "Germany" "Earth Observation" 509 94.8 1230 2007 5
+"TerraStar 1" "USA" "Communications" 35791 1436.11 6910 2009 15
+"TESS" "NR (5/18)" "Space Science" 268488 8758 362 2018 20
+"TET-1" "Germany" "Technology Development" 505 94.7 120 2012 1
+"Thaicom-4" "NR" "Communications" 35798 1436.1 6505 2005 12
+"Thaicom-5" "NR" "Communications" 35796 1436.1 2800 2006 12
+"Thaicom-6" "NR" "Communications" 35796 1436.3 3325 2014 15
+"Thaicom-8" "NR (12/16)" "Communications" 35890 1440.09 3025 2016 15
+"THEMIS A" "USA" "Space Science" 87304 1868.98 126 2007 2
+"THEMIS D" "USA" "Space Science" 87260 1867.91 126 2007 2
+"THEMIS E" "USA" "Space Science" 87526 1875.53 126 2007 2
+"Theos" "Thailand" "Earth Observation" 826 101.4 750 2008 5
+"Thor-3" "Norway" "Communications" 35795 1436.07 1400 1998 12
+"Thor-5 " "Norway" "Communications" 35798 1436.1 2024 2008 15
+"Thor-6" "Norway" "Communications" 35794 1436.1 3050 2009 15
+"Thor-7" "Norway" "Communications" 35741 1433.4 4600 2015 15
+"Thuraya 2" "United Arab Emirates" "Communications" 35807 1436.07 5250 2003 12
+"Thuraya 3" "United Arab Emirates" "Communications" 35807 1436.1 5180 2008 12
+"TIMED" "USA" "Space Science" 613 97 587 2001 2
+"Turkmen Alem 52E/MonacoSAT" "NR" "Communications" 35784 1432.69 4700 2015 15
+"Turksat 4A" "NR" "Communications" 35797 1436.08 4869 2014 15
+"Turksat 4B" "NR" "Communications" 35805 1436.57 5000 2015 15
+"UCLSat" "NR (10/17)" "Technology Development/Educational" 513 94.7 3 2017 2
+"USA 146" "USA" "Communications" 35834 1436.1 3200 1999 4
+"USA 174" "USA" "Communications" 35787 1436.1 3200 2003 4
+"USA 108" "USA" "Communications" 35775 1435.22 3200 1995 4
+"USA 114" "USA" "Communications" 35829 1436.12 3200 1995 4
+"USA 127" "USA" "Communications" 35835 1436.11 3200 1996 4
+"USA 138" "USA" "Communications" 35794 1435.94 3206 1998 4
+"UiTMSAT-1" "NR (11/18)" "Earth Observation" 408 92.6 1 2018 2
+"UK-DMC-2" "United Kingdom" "Earth Observation" 662 98 97 2009 5
+"Venµs" "NR (10/17)" "Earth Observation" 724 99.2 264 2017 4.5
+"VeneSat 1" "Venezuela/China" "Communications" 35796 1436.1 5100 2008 15
+"ViaSat-1" "USA" "Communications" 35796 1436.09 6740 2011 15
+"ViaSat-2" "NR (10/17)" "Communications" 36 1436.1 6418 2017 14
+"Vinasat 1" "NR" "Communications" 35791 1436.1 2600 2008 15
+"Vinasat 2" "NR" "Communications" 35776 1434.69 2970 2012 15
+"VNREDSat 1A" "NR" "Earth Observation" 685 98.43 115 2013 5
+"VRSS-1" "Venezuela" "Earth Observation" 654 97.48 880 2012 5
+"VRSS-2" "NR (3/18)" "Earth Observation" 654 97.55 1000 2017 5
+"WildBlue 1" "USA" "Communications" 35796 1436.1 4735 2006 12
+"WNISat-1" "Japan" "Earth Observation" 849 99.2 10 2013 2
+"Worldview 1" "USA" "Earth Observation" 494 94.5 4500 2007 7.25
+"Worldview 3" "USA" "Earth Observation" 614 96.96 2800 2014 12
+"Worldview 4" "NR (12/16)" "Earth Observation" 620 96.9 2485 2016 10
+"XM 3" "USA" "Communications" 35790 1436.1 4703 2005 15
+"XM 4" "USA" "Communications" 35787 1436.09 5193 2006 15
+"XMM Newton" "ESA" "Space Science" 114027 2872.15 3764 1999 10
+"X-Sat" "NR" "Earth Observation" 823 101.1 91 2011 3
+"XTAR-EUR" "USA" "Communications" 35792 1436.06 3631 2005 15
+"Yahsat-1A" "United Arab Emirates" "Communications" 35823 1435.92 5953 2011 15
+"Yamal-202" "Russia" "Communications" 35796 1436.06 1320 2003 12
+"Yamal-401" "Russia" "Communications" 35822 1436.33 2976 2014 15
+"Yamal-402" "Russia" "Communications" 35789 1436.11 4463 2012 11
+"Youthsat" "India" "Space Science" 824 101.2 92 2011 2
+"Zhangheng 1" "NR (5/18)" "Earth Science" 509 94.5 730 2018 5
+"Zhongxing 10" "China" "Communications" 35797 1436.05 5000 2011 15
+"Ziyuan 3" "China" "Earth Observation" 504 94.7 2650 2012 4
+"Ziyuan 3-2" "NR (12/16)" "Earth Observation" 500 94.49 2630 2016 4
